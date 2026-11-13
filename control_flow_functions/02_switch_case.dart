@@ -1,3 +1,9 @@
+/*
+Problem: Switch Case – Multiple Condition Selection
+Author: Madhurima Kole
+Date: 11-11-2026
+*/
+
 enum Day{
     sun,mon,tues
 }
