@@ -1,4 +1,10 @@
 /*
+Problem:For Loop – Iteration and Repetition
+Author: Madhurima Kole
+Date: 10-11-2026
+*/
+
+/*
 We can use for loop to run a code block multiple times according to the condition. 
 The syntax of for loop is:
 
