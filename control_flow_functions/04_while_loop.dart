@@ -1,4 +1,10 @@
 /*
+Problem: While Loop – Conditional Iteration
+Author: Madhurima Kole
+Date: 11-11-2026
+*/
+
+/*
 While Loop
 In while loop, the loop’s body will run until and unless the condition is true. 
 You must write conditions first before statements. 
