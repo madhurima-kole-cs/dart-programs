@@ -1,4 +1,9 @@
 /*
+Problem: Taking user input in Dart.
+Author: Madhurima Kole
+Date: 11-11-2026
+*/
+/*
  Instead of writing hard-coded values, you can give input to the computer. It will make your program more dynamic. You must import the package import 'dart:io'; for user input.
 
  Note: You won’t be able to take input from users using dartpad. You need to run a program from your computer.
