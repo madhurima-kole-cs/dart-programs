@@ -1,0 +1,15 @@
+//In Dart, a map is an object where you can store data in key-value pairs. 
+//Each key occurs only once, but you can use same value multiple times
+
+void main(){
+
+
+Map<String, String> myDetails = {
+   'name': 'John Doe',
+   'address': 'USA',
+   'fathername': 'Soe Doe'
+};
+
+// displaying the output
+print(myDetails['name']);
+}
