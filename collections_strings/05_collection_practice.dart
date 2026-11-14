@@ -1,3 +1,9 @@
+/*
+Problem: Swap of two numbers
+Author: Madhurima Kole
+Date: 12-11-2026
+*/
+
 // Swap two numbers without using third varible
 void main(){
   num a=10;
