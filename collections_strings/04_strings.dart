@@ -1,4 +1,10 @@
 /*
+Problem: Working with strings
+Author: Madhurima Kole
+Date: 14-11-2026
+*/
+
+/*
 String In Dart
 
 String helps you to store text based data. In String, you can represent your name, address, 
